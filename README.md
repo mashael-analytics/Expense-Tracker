@@ -56,3 +56,19 @@ A simple and efficient Expense Tracking application using Python and SQLite, des
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+
+---
+
+## Future Improvements
+
+- **User Authentication:**  
+  Implement login and user management to support multiple users with personal expense tracking.
+
+- **Monthly Budget & Alerts:**  
+  Add functionality to set monthly budgets and receive notifications or alerts when approaching or exceeding limits.
+
+- **Data Visualization:**  
+  Integrate charts and graphs using libraries such as `matplotlib` or `plotly` to provide visual insights into spending patterns.
+
+- **Cross-Platform Interface:**  
+  Develop a user-friendly web or mobile application interface for easier access and interaction.
